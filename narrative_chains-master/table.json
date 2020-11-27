@@ -1,0 +1,154 @@
+{
+  "4c317f76-ca42-4024-a4c2-12ec911cf89b": {
+    "-1": [
+      [
+        "get",
+        "nsubj"
+      ],
+      [
+        "allow",
+        "nsubjpass"
+      ],
+      [
+        "sign",
+        "dobj"
+      ],
+      [
+        "tell",
+        "dobj"
+      ],
+      [
+        "get",
+        "nsubj"
+      ],
+      [
+        "skip",
+        "nsubj"
+      ]
+    ],
+    "1": [
+      [
+        "say",
+        "nsubj"
+      ],
+      [
+        "find",
+        "nsubj"
+      ],
+      [
+        "tell",
+        "nsubj"
+      ]
+    ],
+    "0": [
+      [
+        "sign",
+        "nsubj"
+      ]
+    ]
+  },
+  "134e8636-3617-43d8-ba6a-9a11b3b115b1": {
+    "0": [
+      [
+        "like",
+        "nsubj"
+      ],
+      [
+        "try",
+        "nsubj"
+      ],
+      [
+        "ask",
+        "nsubj"
+      ],
+      [
+        "sell",
+        "dative"
+      ]
+    ],
+    "1": [
+      [
+        "like",
+        "dobj"
+      ],
+      [
+        "recreate",
+        "dobj"
+      ]
+    ],
+    "2": [
+      [
+        "ask",
+        "dobj"
+      ],
+      [
+        "sell",
+        "nsubj"
+      ]
+    ],
+    "3": [
+      [
+        "sell",
+        "dobj"
+      ]
+    ]
+  },
+  "309a067b-a3f9-40f1-9271-dc2f39e7b130": {
+    "0": [
+      [
+        "decide",
+        "nsubj"
+      ],
+      [
+        "decide",
+        "nsubj"
+      ],
+      [
+        "ask",
+        "nsubj"
+      ],
+      [
+        "hook",
+        "dobj"
+      ]
+    ],
+    "1": [
+      [
+        "ask",
+        "dobj"
+      ],
+      [
+        "hook",
+        "nsubj"
+      ]
+    ]
+  },
+  "c5b396c1-e8b5-48b8-a713-b3e00a5cfa28": {
+    "0": [
+      [
+        "love",
+        "nsubj"
+      ],
+      [
+        "stop",
+        "nsubj"
+      ]
+    ]
+  },
+  "2fa51508-0196-4fe5-bdba-fa8678a881f0": {
+    "0": [
+      [
+        "eat",
+        "nsubj"
+      ],
+      [
+        "feel",
+        "nsubj"
+      ],
+      [
+        "have",
+        "nsubj"
+      ]
+    ]
+  }
+}
